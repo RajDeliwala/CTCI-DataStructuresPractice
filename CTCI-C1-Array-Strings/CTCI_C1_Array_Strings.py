@@ -23,5 +23,7 @@ def get_hash(key):
 #You need a dictionary, hash function and an array
 
 #Implement a hashtable to get the best understanding for how they works
-
+#Create a dictionary & array
+#Create a hash function
+#Push the key dictionary into the arrayss
 
